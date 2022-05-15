@@ -18,3 +18,4 @@ class movieDetail(generics.RetrieveUpdateDestroyAPIView):
     queryset = movie.objects.all()
     serializer_class = movieSerializer
 
+#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
